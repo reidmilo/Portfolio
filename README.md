@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-##### Carlisle, PA • (908)-619-4294 • oliverreidmiller@gmail.com • [LinkedIn](https://www.linkedin.com/in/oliver-reidmiller-288359291/)
+#### Carlisle, PA • (908)-619-4294 • oliverreidmiller@gmail.com • [LinkedIn](https://www.linkedin.com/in/oliver-reidmiller-288359291/)
 
 ---
 
@@ -8,6 +8,7 @@
 **Programming Languages:**  Python, SQL, Java
 
 **Statistical Software:** R, Microsoft Excel, Stata, SBSS
+
 **Data Visualization Software:** Tableau, Power BI
 
 **Data Collection and Analysis:** Machine Learning Models, Web-scraping, Database Systems and Management, Econometrics
