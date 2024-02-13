@@ -5,11 +5,15 @@
 
 ## Skills  
 
-**Programming Languages:**  Python, SQL, Java  
+**Programming Languages:**  Python, SQL, Java
+
 **Statistical Software:** R, Microsoft Excel, Stata, SBSS
 **Data Visualization Software:** Tableau, Power BI
-**Data Collection and Analysis:** Machine Learning Models, Web-scraping, Database Systems and Management, Econometrics  
-**Operating Systems:** Windows and MAC OS  
+
+**Data Collection and Analysis:** Machine Learning Models, Web-scraping, Database Systems and Management, Econometrics
+
+**Operating Systems:** Windows and MAC OS
+
 **Other:** Fluent in English and Spanish  
 
 ---
