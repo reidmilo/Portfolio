@@ -3,6 +3,17 @@
 
 ---
 
+## Skills  
+
+**Programming Languages:**  Python, SQL, Java  
+**Statistical Software:** R, Microsoft Excel, Stata, SBSS
+**Data Visualization Software:** Tableau, Power BI
+**Data Collection and Analysis:** Machine Learning Models, Web-scraping, Database Systems and Management, Econometrics  
+**Operating Systems:** Windows and MAC OS  
+**Other:** Fluent in English and Spanish  
+
+---
+
 ## Education
 
 **Dickinson College** - May 2024  
@@ -12,17 +23,6 @@ GPA 3.73, Dean’s List
 - Coursework: Finance and Spanish 
 - Capstone: Impact of Profanity in Hip-Hop Lyrics on Song Performance across Genders Using Machine Learning  
 - Clubs/Organizations: Trendsetters: First-Generation Students, Chamber Music
-
----
-
-## Skills  
-
-**Programming Languages:**  Python, SQL, Java  
-**Statistical Software:** R, Microsoft Excel, Stata, SBSS
-**Data Visualization Software:** Tableau, Power BI
-**Data Collection and Analysis:** Machine Learning Models, Web-scraping, Database Systems and Management, Econometrics  
-**Operating Systems:** Windows and MAC OS  
-**Other:** Fluent in English and Spanish  
 
 ---
 
