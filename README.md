@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 #### Carlisle, PA • (908)-619-4294 • oliverreidmiller@gmail.com • [LinkedIn](https://www.linkedin.com/in/oliver-reidmiller-288359291/)
-[Resume](assets/Resume.md-4.html)  
+[Resume](assets/Resume.md.pdf)  
 ---
 ---
 
