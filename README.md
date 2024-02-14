@@ -40,7 +40,7 @@ My current working projects encompass a diverse range of subjects, demonstrating
 
 2. **Impact of Profanity in Hip-Hop Lyrics on Song Performance Across Genders:** Investigating the influence of profanity in hip-hop lyrics on song performance, this project involves advanced data analytics techniques to uncover patterns and trends across genders.
 
-3. **Examining the Correlation Between Church Density and Anti-LGBT Legislation:** This project delves into sociopolitical influences by exploring the correlation between church density and anti-LGBT legislation. Through data analysis, I aim to understand voting patterns and the broader sociopolitical landscape in the United 
+3. **Examining the Correlation Between Church Density and Anti-LGBT Legislation:** This project delves into sociopolitical influences by exploring the correlation between church density and anti-LGBT legislation. Through data analysis, I aim to understand voting patterns and the broader sociopolitical landscape in the United States.
 
 
 ---
