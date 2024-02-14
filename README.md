@@ -43,6 +43,8 @@ My current working projects encompass a diverse range of subjects, demonstrating
 3. **Examining the Correlation Between Church Density and Anti-LGBT Legislation:** This project delves into sociopolitical influences by exploring the correlation between church density and anti-LGBT legislation. Through data analysis, I aim to understand voting patterns and the broader sociopolitical landscape in the United 
 
 
+---
+
 ## Skills  
 
 **Programming Languages:**  Python, SQL, Java
