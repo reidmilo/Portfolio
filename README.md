@@ -3,28 +3,45 @@
 
 ---
 
+---
+layout: default
+title: About Me
+---
+
 # About Me
 
-Greetings, I am Oliver Reidmiller, a third-year senior at Dickinson College in Carlisle, PA. Currently pursuing a degree in Data Analytics with minors in Economics and Music, I hail from New Jersey. My academic journey has been enriched by a diverse range of interests, with ongoing projects exploring the intersection of music, gender and sexuality studies, kinesiology, and economics.
+Hello, I'm Oliver Reidmiller, a third-year senior at Dickinson College in Carlisle, PA. Originally from New Jersey, I am currently studying Data Analytics with minors in Economics and Music. My academic journey has been shaped by a diverse set of interests, and I'm actively engaged in various data analytics projects focused on the intersection of music, gender and sexuality studies, kinesiology, and economics.
 
 ## Academic Pursuits
 
-As a dedicated student, I have delved into various data projects that align with my passions. These projects reflect my commitment to applying data analytics across interdisciplinary domains, demonstrating my enthusiasm for leveraging data to gain valuable insights.
+As a liberal arts student, I engage in data analytics projects to explore and deepen my understanding of various academic passions. These projects not only showcase my commitment to these interdisciplinary areas but also highlight my enthusiasm for leveraging data to derive meaningful insights.
+
+Moreover, my academic journey extends beyond data analytics, encompassing coursework in finance and Spanish. I've pursued these subjects from being interested in gaining knowledge in a variety of fields. Alongside my analytical pursuits, I contribute to the school's music community as a French horn player. Currently, I am preparing C. Saint Saëns: Morceau de Concert for my senior concerto.
 
 ## Professional Experience
 
-Since March 2023, I have been serving as a Data Analytics Fellow with the Dickinson College Athletics Department. In this role, I have collaborated with the football, men's lacrosse, and women's lacrosse teams, pioneering the integration of analytics into their strategies for both games and training sessions. I take pride in being the inaugural Data Analytics Fellow to leverage data science and statistics to support our coaching staff.
+Since March 2023, I've been serving as a Data Analytics Fellow with the Dickinson College Athletics Department. Collaborating with the football, men's lacrosse, and women's lacrosse teams as the founding Data Analytics Fellow, I've been instrumental in integrating analytics into their strategies for both games and training sessions, making data science and statistics valuable tools for our coaching staff.
 
-This semester, I am actively engaged in assisting the women's lacrosse team by crafting data visualizations and implementing data-driven gameplay strategies. Concurrently, I mentor and supervise men's lacrosse players keen on expanding their understanding of data science and sports analytics.
+This semester, my focus is on assisting the women's lacrosse team by creating data visualizations and implementing data-driven gameplay strategies. Simultaneously, I mentor and supervise men's lacrosse players eager to explore the intersections of data science and sports analytics.
 
 ## Future Aspirations
 
-With my anticipated graduation from Dickinson College in June, I am poised to transition into the professional arena. My goal is to secure a position that allows me to continue harnessing my analytical skills within a professional sports team environment. I am eager to further develop my expertise and contribute to the dynamic field of sports analytics.
-
-I invite you to explore my professional journey and connect with me as I embark on this exciting next chapter after graduation.
+As I near graduation from Dickinson College in June, I look forward to entering the professional arena. My goal is to secure a position where I can continue to apply my analytical skills. Exploring various industries, I am open to joining any data team that aligns with my skills and interests. The dynamic field of data analytics presents an exciting opportunity to further develop my expertise and contribute significantly.
 
 
-## Skills  
+
+# Data Analytics Projects
+
+My current working projects encompass a diverse range of subjects, demonstrating my proficiency in using data analytics as a powerful tool. These projects include:
+
+1. **Machine Learning on Lacrosse Team GPS Training Data:** Utilizing machine learning techniques, I am analyzing GPS training data for the lacrosse team. The objective is to identify performance correlations between different measures, providing valuable insights for optimizing training strategies.
+
+2. **Impact of Profanity in Hip-Hop Lyrics on Song Performance Across Genders:** Investigating the influence of profanity in hip-hop lyrics on song performance, this project involves advanced data analytics techniques to uncover patterns and trends across genders.
+
+3. **Examining the Correlation Between Church Density and Anti-LGBT Legislation:** This project delves into sociopolitical influences by exploring the correlation between church density and anti-LGBT legislation. Through data analysis, I aim to understand voting patterns and the broader sociopolitical landscape in the United 
+
+
+##Skills  
 
 **Programming Languages:**  Python, SQL, Java
 
