@@ -29,6 +29,8 @@ This semester, my focus is on assisting the women's lacrosse team by creating da
 As I near graduation from Dickinson College in June, I look forward to entering the professional arena. My goal is to secure a position where I can continue to apply my analytical skills. Exploring various industries, I am open to joining any data team that aligns with my skills and interests. The dynamic field of data analytics presents an exciting opportunity to further develop my expertise and contribute significantly.
 
 
+---
+
 
 # Data Analytics Projects
 
@@ -41,7 +43,7 @@ My current working projects encompass a diverse range of subjects, demonstrating
 3. **Examining the Correlation Between Church Density and Anti-LGBT Legislation:** This project delves into sociopolitical influences by exploring the correlation between church density and anti-LGBT legislation. Through data analysis, I aim to understand voting patterns and the broader sociopolitical landscape in the United 
 
 
-##Skills  
+## Skills  
 
 **Programming Languages:**  Python, SQL, Java
 
