@@ -36,7 +36,7 @@ As I near graduation from Dickinson College in May, I look forward to entering t
 
 My current working projects encompass a diverse range of subjects, demonstrating my proficiency in using data analytics as a powerful tool. These projects include:
 
-1. [**Examining the Correlation Between Church Density and Anti-LGBT Legislation:**](
+1. [Examining the Correlation Between Church Density and Anti-LGBT Legislation:](
 https://github.com/reidmilo/Examining-the-Correlation-Between-Church-Density-and-Anti-LGBT-Legislation/tree/main) This project delves into sociopolitical influences by exploring the correlation between church density and anti-LGBT legislation. Through data analysis, I aim to understand voting patterns and the broader sociopolitical landscape in the United States.
 
 2. **Machine Learning on Lacrosse Team GPS Training Data:** Utilizing machine learning techniques, I am analyzing GPS training data for the lacrosse team. The objective is to identify performance correlations between different measures, providing valuable insights for optimizing training strategies.
