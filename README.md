@@ -10,7 +10,7 @@
 
 # About Me
 
-Hello, I'm Oliver Reidmiller, a third-year senior at Dickinson College in Carlisle, PA. Originally from New Jersey, I am currently studying Data Analytics with minors in Economics and Music. My academic journey has been shaped by a diverse set of interests, and I'm actively engaged in various data analytics projects focused on the intersection of music, gender and sexuality studies, kinesiology, and economics.
+Hello, I'm Oliver Reidmiller, a graduating senior at Dickinson College in Carlisle, PA. Originally from New Jersey, I am currently studying Data Analytics with minors in Economics and Music. My academic journey has been shaped by a diverse set of interests, and I'm actively engaged in various data analytics projects focused on the intersection of music, gender and sexuality studies, kinesiology, and economics.
 
 ---
 
