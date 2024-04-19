@@ -4,6 +4,8 @@
 
 [**Resume**](assets/Reidmiller%20-%20Resume.pdf)
 
+[**Capstone**](https://github.com/reidmilo/Capstone-Project)
+
 ---
 
 
