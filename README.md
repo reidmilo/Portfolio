@@ -26,8 +26,9 @@ https://github.com/reidmilo/Examining-the-Correlation-Between-Church-Density-and
 2. [Predictive Modeling of Speed Dating Matches using Machine Learning:](https://github.com/reidmilo/Dynamics-of-Speed-Dating-Matches-using-Machine-Learning/tree/main) This study utilizes the Speed Dating dataset, curated by Sheena S. Iyengar and collected during experiments conducted by Columbia, Harvard, and Stanford University professors. Focused on understanding decision-making in dating, the project builds classification models to predict matches based on individual characteristics. The binary response variable, 'match,' serves as a key metric, offering potential applications in enhancing online dating recommendations for increased compatibility.
 
 3. **Machine Learning on Lacrosse Team GPS Training Data:** Utilizing machine learning techniques, I am analyzing GPS training data for the lacrosse team. The objective is to identify performance correlations between different measures, providing valuable insights for optimizing training strategies.
+   [Shiny Dashboard](https://reidmilo.shinyapps.io/Dashboard/)
 
-4. **Impact of Profanity in Hip-Hop Lyrics on Song Performance Across Genders:** Investigating the influence of profanity in hip-hop lyrics on song performance, this project involves advanced data analytics techniques to uncover patterns and trends across genders.
+5. **Impact of Profanity in Hip-Hop Lyrics on Song Performance Across Genders:** Investigating the influence of profanity in hip-hop lyrics on song performance, this project involves advanced data analytics techniques to uncover patterns and trends across genders.
 
 ---
 
